@@ -1,0 +1,10 @@
+pandas
+scipy
+boto3
+pandas
+scipy
+flask
+fastapi
+uvicorn
+streamlit
+st-star-rating
