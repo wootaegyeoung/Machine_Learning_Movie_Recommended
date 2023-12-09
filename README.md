@@ -1,10 +1,10 @@
 # Movie Recommendation System
 Machine Learning Project
-
+<p>
 Recommendation Algorithm we used..
-<p></p>
-Cotent filtering
-Matrix Factorization 
+</p>
+- Cotent filtering
+- Matrix Factorization 
 
 ## System Architecture
 <img width="436" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/dc3a77b9-5a4e-41a7-a9e6-0313f688552e">
