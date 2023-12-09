@@ -1,6 +1,10 @@
 # Movie Recommendation System
 Machine Learning Project
 
+## Recommendation Algorithm
+Cotent filtering
+Matrix Factorization 
+
 ## System Architecture
 <img width="436" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/dc3a77b9-5a4e-41a7-a9e6-0313f688552e">
 
@@ -21,7 +25,10 @@ Machine Learning Project
 
 2. Matrix Factorization Result
 
-<img width="593" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/8ecbbbf9-aebc-4e8d-85bf-f80ac8198441">
+<img width="162" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/c2733026-3417-4078-82ae-0385879b12fe">
+<img width="258" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/c8966de6-e78a-40ff-a8cb-310a84240803">
+
+
 
 
 
