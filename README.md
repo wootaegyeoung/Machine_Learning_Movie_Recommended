@@ -1,7 +1,8 @@
 # Movie Recommendation System
 Machine Learning Project
 
-Recommendation Algorithm we used
+Recommendation Algorithm we used..
+<p></p>
 Cotent filtering
 Matrix Factorization 
 
