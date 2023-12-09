@@ -6,14 +6,15 @@ Machine Learning Project
 
 ## Streamlit APP
 
-###User input page
+### User input page
 
 1. Users can register the movies they have watched - search functionality is supported.
 2. Users can rate the movies - drag-and-drop functionality is supported
 3. Users can view the movies they have registered along with their ratings.
+<img width="300" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/6f7e3ec5-6532-4d1b-8149-0317fd9d4aa7">
+<img width="261" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/82719bfb-34a7-4ebc-9224-fa99758c2a88">
 
-<img width="300" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/fd9cfa08-de1b-4bf5-97e4-c2405e98dc72">
-<img width="261" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/43ba94b4-5dcd-4df5-8fe0-439e3d38d2f3">
+
 
 
 
