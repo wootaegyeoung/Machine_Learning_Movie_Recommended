@@ -15,6 +15,12 @@ Machine Learning Project
 <img width="261" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/82719bfb-34a7-4ebc-9224-fa99758c2a88">
 
 
+### Recommendation page
+
+1. Content Filtering Result Movies with Ratings of 3 or Above Among User Input
+
+2. Matrix Factorization Result
+
 <img width="593" alt="image" src="https://github.com/wootaegyeoung/Machine_Learning_Movie_Recommended/assets/133792082/8ecbbbf9-aebc-4e8d-85bf-f80ac8198441">
 
 
